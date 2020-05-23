@@ -2,9 +2,13 @@
 inspired by [Axion release plugin](https://github.com/allegro/axion-release-plugin)
 
 Project versioning using Git tags with type safe Gradle Kotlin DSL.
+`![](./misc/kotlin-logo.svg)`
 
-![gradlePluginPortal](https://img.shields.io/maven-metadata/v/https/plugins.gradle.org/m2/com/github/mfarsikov/kewt-versioning/com.github.mfarsikov.kewt-versioning.gradle.plugin/maven-metadata.xml.svg?label=gradle%20plugin%20portal&style=flat-square)
+<img src="./misc/kotlin-logo.svg" alt="drawing"/>
 
+
+
+![gradlePluginPortal](https://img.shields.io/maven-metadata/v/https/plugins.gradle.org/m2/com/github/mfarsikov/kewt-versioning/com.github.mfarsikov.kewt-versioning.gradle.plugin/maven-metadata.xml.svg?label=gradle%20plugin%20portal&style=flat-square&color=blue)
 ## Quick start
 <details open>
 <summary>Kotlin</summary>
